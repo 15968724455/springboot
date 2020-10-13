@@ -1,5 +1,5 @@
 # springboot
 springboot数据访问
-＃# jdbc和德鲁伊引入
+＃# jdbc和druid导入
 ＃# mybatis
 ＃#jpa
